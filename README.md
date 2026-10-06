@@ -27,14 +27,9 @@ The dataset, `Marketing_data.csv`, includes information pertinent to marketing c
 
 ## 🚀 Installation
 
-### 1️⃣ Clone the repository:
+### 1️⃣ 
 
-```bash
-git clone https://github.com/27abhishek27/Marketing_Department_Project.git
-cd Marketing_Department_Project
-```
-
-### 2️⃣ Install dependencies:
+###  Install dependencies:
 
 Ensure you have the following Python packages installed:
 
