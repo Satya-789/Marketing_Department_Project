@@ -69,9 +69,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 Here are some visualizations from the project:
 
-  ![alt text](https://github.com/27abhishek27/Marketing_Department_Project/blob/main/Marketing%20Department%20Project%20Png/heatmap.png)
-  ![alt text](https://github.com/27abhishek27/Marketing_Department_Project/blob/main/Marketing%20Department%20Project%20Png/plt%20figure.png)
-  ![alt text](https://github.com/27abhishek27/Marketing_Department_Project/blob/main/Marketing%20Department%20Project%20Png/scatter.png)
+  ![alt text](https://github.com/Satya-789/Marketing_Department_Project/blob/main/Marketing%20Department%20Project%20Png/heatmap.png)
+  ![alt text](https://github.com/Satya-789/Marketing_Department_Project/blob/main/Marketing%20Department%20Project%20Png/plt%20figure.png)
+  ![alt text](https://github.com/Satya-789/Marketing_Department_Project/blob/main/Marketing%20Department%20Project%20Png/scatter.png)
 
 ## 🛠️ Technologies Used
 
